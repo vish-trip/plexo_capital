@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser Plexo_Capital.ipynb
+web: voila --port=$PORT --no-browser Plexo_Capital.ipynb --template=material
